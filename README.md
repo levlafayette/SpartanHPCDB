@@ -7,13 +7,13 @@ Processing datasets and using databases on the Spartan HPC
 If you check this repository out be aware that it uses Git submodules to manage the reveal.js dependency. To also checkout reveal.js, you will have to either:
 
 ### Fetch it all in one hit
-`git clone --recursive https://github.com/UoM-ResPlat-DevOps/SpartanAdvanced`
+`git clone --recursive https://github.com/levlafayette/SpartanHPCDB`
 
 Or:
 
 ### Take it step by step
 
-`git clone https://github.com/UoM-ResPlat-DevOps/SpartanAdvanced`   
+`git clone https://github.com/levlafayette/SpartanHPCDB`   
 
 `git submodule init`    
 
